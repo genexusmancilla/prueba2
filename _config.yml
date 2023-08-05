@@ -1,14 +1,13 @@
-title: Este es mi titulo 2
+title: Este es mi titulo 3
 email: genexus.mancilla@gmail.com
 
 description: >- 
   Bienvenido a mi sitio web creado con GitHub Pages y Jekyll.
 baseurl: "/prueba2"
 
-url: "" 
-#url: "{{ site.github.url }}" 
+url: "https://genexusmancilla.github.io/"
 twitter_username: jekyllrb
-github_username: {{ site.github.username }}
+github_username: genexusmancilla
 
 # Build settings
 theme: minima
