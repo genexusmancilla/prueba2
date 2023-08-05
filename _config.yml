@@ -3,9 +3,9 @@ email: {{ site.github.owner.email }}
 
 description: >- 
   Bienvenido a mi sitio web creado con GitHub Pages y Jekyll.
-baseurl: {{ site.github.baseurl }}
+baseurl: "/prueba2"
 
-url: "{{ site.github.url }}" 
+#url: "{{ site.github.url }}" 
 twitter_username: jekyllrb
 github_username: {{ site.github.username }}
 
