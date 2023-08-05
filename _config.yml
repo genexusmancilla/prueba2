@@ -1,13 +1,13 @@
-title: Este es mi titulo [{{site.github.owner_url}}]
-email: "{{ site.github.owner.email }}"
+title: Este es mi titulo {{ site.github.owner_url }}
+email: {{ site.github.owner.email }}
 
 description: >- 
   Bienvenido a mi sitio web creado con GitHub Pages y Jekyll.
-baseurl: "{{ site.github.baseurl }}"
+baseurl: {{ site.github.baseurl }}
 
 url: "{{ site.github.url }}" 
 twitter_username: jekyllrb
-github_username: "{{ site.github.username }}"
+github_username: {{ site.github.username }}
 
 # Build settings
 theme: minima
